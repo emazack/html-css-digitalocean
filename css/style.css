@@ -4,16 +4,37 @@
   border: 2px solid green;
 } */
 
+img{
+  height: 50px;
+}
+
 /* DEBUG:  */
 
 .centratura{
   text-align: center;
 }
 
+.bgcolorgrey{
+  background-color: #f3f5f9;
+}
+
+.bgcolorblue{
+  background-color: #1802db;
+}
+
+.bgcolordarkblue{
+  background-color: #010e28;
+}
+
 /* NAVIGATORE **********************/
 
 #logodigital{
   line-height: 39px;
+}
+
+#navmenusx > *, #navmenudx > *{
+  display: inline-block;
+  margin-left: 15px;
 }
 
 /* JUMBOTRON **********************/
@@ -40,17 +61,4 @@
   margin: 50px 0 50px 0;
   padding: 25px 15px 25px 15px;
   background-color: white;
-}
-
-
-
-
-img{
-  max-width: 100%;
-  max-height: 100%;
-}
-
-#navmenusx > *, #navmenudx > *{
-  display: inline-block;
-  margin-left: 15px;
 }
