@@ -2,7 +2,10 @@
 
 [class*='col-']{
   border: 2px solid green;
-  height: 50px;
+}
+
+#navmenusx > *, #navmenudx > *{
+  display: inline-block;
 }
 
 /* DEBUG:  */
