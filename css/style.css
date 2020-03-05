@@ -1,8 +1,8 @@
 /* DEBUG:  */
 
-[class*='col-']{
+/* [class*='col-']{
   border: 2px solid green;
-}
+} */
 
 /* DEBUG:  */
 
@@ -10,20 +10,39 @@
   text-align: center;
 }
 
+/* NAVIGATORE **********************/
+
 #logodigital{
   line-height: 39px;
 }
 
+/* JUMBOTRON **********************/
+
+/* SCRITTA SINISTRA */
 #jumbotext p{
   font-size: 25px;
   font-weight: bold;
   margin-bottom: 50px;
+  color: white;
+  opacity: 0.7;
 }
+
 #jumbotext h1{
+  font-size: -webkit-xxx-large;
   font-weight: bold;
-  margin-top: 68px;
+  margin-top: 100px;
   margin-bottom: 20px;
+  color: white;
 }
+
+/* FORM DI DESTRA */
+#jumboform{
+  margin: 50px 0 50px 0;
+  padding: 25px 15px 25px 15px;
+  background-color: white;
+}
+
+
 
 
 img{
