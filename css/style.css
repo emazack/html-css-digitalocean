@@ -4,8 +4,12 @@
   border: 2px solid green;
 }
 
+/* DEBUG:  */
+
+button{
+  display: block;
+}
+
 #navmenusx > *, #navmenudx > *{
   display: inline-block;
 }
-
-/* DEBUG:  */
