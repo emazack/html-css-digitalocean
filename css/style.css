@@ -6,10 +6,6 @@
 
 /* DEBUG:  */
 
-button{
-  display: block;
-}
-
 #navmenusx > *, #navmenudx > *{
   display: inline-block;
 }
