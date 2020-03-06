@@ -83,13 +83,23 @@
 
 /* 1sezione INNOVATIVE BUSINESSES TRUST DIGITALOCEAN *****************/
 
+
 #innovative1 h5{
   font-weight: bold;
   margin: 50px 0 50px 0;
 }
 
-#loghi img{
-  height: 50px;
+#loghi{
+  margin-bottom: 25px;
+}
+
+#loghi ul li{
+  display: inline-block;
+  width: 150px;
+}
+
+#loghi ul li img{
+  max-width: 100%
 }
 
 /* 5sezione Service your customers **********************/
