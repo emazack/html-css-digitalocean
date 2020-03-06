@@ -26,6 +26,10 @@ img{
   background-color: #010e28;
 }
 
+.bgcolorwhite{
+  background-color: white;
+}
+
 /* FONTS */
 
 .greyfont > *{
@@ -34,6 +38,14 @@ img{
 
 .boldfont > *{
   font-weight: bold;
+}
+
+.whitefont > *{
+  color: white;
+}
+
+.bluefont > *{
+  color: blue;
 }
 
 /* NAVIGATORE **********************/
@@ -74,3 +86,9 @@ img{
 }
 
 /* 1sezione INNOVATIVE BUSINESSES TRUST DIGITALOCEAN *****************/
+
+/* 5sezione Service your customers **********************/
+
+tr{
+  border-bottom: 1px solid;
+}
