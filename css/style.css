@@ -4,10 +4,6 @@
   border: 2px solid green;
 } */
 
-img{
-  height: 50px;
-}
-
 /* DEBUG:  */
 
 .centratura{
@@ -87,8 +83,23 @@ img{
 
 /* 1sezione INNOVATIVE BUSINESSES TRUST DIGITALOCEAN *****************/
 
+#innovative1 h5{
+  font-weight: bold;
+  margin: 50px 0 50px 0;
+}
+
+#loghi img{
+  height: 50px;
+}
+
 /* 5sezione Service your customers **********************/
 
 tr{
   border-bottom: 1px solid;
+}
+
+/* PARTE INFERIORE ********************/
+
+footer p{
+  opacity: 0.7;
 }
