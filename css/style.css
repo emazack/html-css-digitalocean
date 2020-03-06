@@ -26,6 +26,16 @@ img{
   background-color: #010e28;
 }
 
+/* FONTS */
+
+.greyfont > *{
+  opacity: 0.7;
+}
+
+.boldfont > *{
+  font-weight: bold;
+}
+
 /* NAVIGATORE **********************/
 
 #logodigital{
@@ -62,3 +72,5 @@ img{
   padding: 25px 15px 25px 15px;
   background-color: white;
 }
+
+/* 1sezione INNOVATIVE BUSINESSES TRUST DIGITALOCEAN *****************/
