@@ -6,6 +6,10 @@
 
 /* DEBUG:  */
 
+img{
+  max-width: 100%;
+}
+
 .centratura{
   text-align: center;
 }
@@ -42,6 +46,10 @@
 
 .bluefont > *{
   color: blue;
+}
+
+.darkbluefont > *{
+  color: darkblue;
 }
 
 /* NAVIGATORE **********************/
@@ -101,6 +109,37 @@
 #loghi ul li img{
   max-width: 100%
 }
+
+/* 2sezione Deploy and scale seamlessly ****************************/
+
+#deploytitle{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+#deploytitle h2{
+  font-weight: bold;
+}
+
+#deploymenusx{
+  border-left: 2px solid lightgrey;
+  opacity: 0.7;
+  padding-left: 10px;
+}
+
+#deploymenudx{
+  margin-bottom: 50px;
+}
+
+#deploymenudx h3{
+  font-weight: bold;
+}
+
+#deploymenudx p{
+  opacity: 0.7;
+}
+
+
 
 /* 5sezione Service your customers **********************/
 
