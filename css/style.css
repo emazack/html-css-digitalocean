@@ -15,8 +15,20 @@ h2{
   color: darkblue;
 }
 
+h3{
+  font-weight: bold;
+  color: darkblue;
+}
+
 p{
   opacity: 0.7;
+}
+
+/* font per i link */
+
+.linkto{
+  font-weight: bold;
+  color: blue;
 }
 
 .centratura{
